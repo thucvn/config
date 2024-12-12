@@ -1,6 +1,28 @@
 {
-  "SKIP": ["6740b2cb15bd1d26b7b71266", "6727ca831ee144b53eb8c08c"],
-  "CLAIM": ["671b8ee422d15820f13dc61d", "671b8ecb22d15820f13dc61a"],
+  "SKIP": [
+    "6740b2cb15bd1d26b7b71266", 
+    "6727ca831ee144b53eb8c08c", 
+    "6714e8b80f93ce482efae727",
+    "6754c09b5de2c352526ab323",
+    "6756c53f0284d9d7b208dd50",
+    "6754c1065de2c352526ab324"
+  ],
+  "SPECIAL": [
+    "6729082b93d9038819af5e77", 
+    "671b8ecb22d15820f13dc61a",
+    "675729bc8a00f11f8cf8c1fd",
+    "67572a2c8a00f11f8cf8c1ff",
+    "6757a207ec9bc04f1beb0e75",
+    "6757a21dec9bc04f1beb0e77",
+    "6757a232ec9bc04f1beb0e79",
+    "6758d84842df2161c728c742"
+  ],
+  "CLAIM": ["671b8ee422d15820f13dc61d"],
   "COMPLETE": [],
-  "COMPLETE_CLAIM": ["673a23760f9acd0470329409", "67362326ce14073e9a9e0144", "6727ca4c1ee144b53eb8c08a", "6714e8b80f93ce482efae727", "67532ea5a3770d4f94e38f6f", "6729082b93d9038819af5e77"]
+  "COMPLETE_CLAIM": [
+    "673a23760f9acd0470329409",
+    "67362326ce14073e9a9e0144", 
+    "6727ca4c1ee144b53eb8c08a", 
+    "67532ea5a3770d4f94e38f6f"
+  ]
 }
